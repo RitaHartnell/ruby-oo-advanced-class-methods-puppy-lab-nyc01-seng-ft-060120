@@ -13,4 +13,4 @@ class Dog
     @@all
   end
 end
-binding.pry
+
