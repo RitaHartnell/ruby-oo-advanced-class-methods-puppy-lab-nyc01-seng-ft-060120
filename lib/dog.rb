@@ -1,3 +1,5 @@
+requrie 'pry'
+
 # Add your code here
 class Dog
   attr_reader :name
@@ -12,3 +14,4 @@ class Dog
     }
   end
 end
+binding.pry
